@@ -2,7 +2,7 @@ package lista2;
 
 import java.util.*;
 
-public class tarefa2 {
+public class Tarefa2 {
 
 	public static void main(String[] args) {
 		//Faça um programa que entre com três números e coloque em ordem crescente.
@@ -20,27 +20,22 @@ public class tarefa2 {
 		  if (n1 > n2) {
               aux = n1;
               n1 = n2;
-              n2 = aux;
-           
+              n2 = aux;          
           }
 
           if (n2 > n3) {
               aux = n2;
               n2 = n3;
-              n3 = aux;
-              
-
+              n3 = aux;        
           }
            
        
           if (n1 > n2) {
               aux = n1;
               n1 = n2;
-              n2 = aux;
-              
+              n2 = aux;  
           }
-          
-          System.out.printf("Os valores em ordem crescente é: %d %d %d", n1,n2,n3);
+          System.out.printf("Os valores em ordem crescente é: %d - %d - %d", n1,n2,n3);
 		
 	}
 

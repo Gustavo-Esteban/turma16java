@@ -1,8 +1,8 @@
-package exercicios;
+package lista1;
 
 import java.util.Scanner;
 
-public class lista1tarefa2
+public class Tarefa2
 {
 	public static void main(String[]args)
 	{

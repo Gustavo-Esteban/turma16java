@@ -2,7 +2,7 @@ package projetojava;
 
 import java.util.Scanner;
 
-public class numeroNegativo {
+public class numeroParImpar {
 
 	public static void main(String[] args) {
 		Scanner ler = new Scanner (System.in);
@@ -35,10 +35,7 @@ public class numeroNegativo {
 			{
 				System.out.printf("\n%d é ímpar\n", numero);
 			}
-		}
-		
-		
-		
+		}	
 
 	}
 
