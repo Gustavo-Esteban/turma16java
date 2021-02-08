@@ -52,7 +52,7 @@ Apresentar todos os dados da list.
 						lista.remove(x);
 						
 					}	
-				System.out.println("Deseja fazer alguma alteração? 1-Alterar 2-Remover 0-Sair\nInsira aqui:");
+				System.out.println("Deseja fazer alguma alteração? 1-Alterar 2-Remover 0-Não\nInsira aqui:");
 				op = ler.nextInt();
 			}
 			

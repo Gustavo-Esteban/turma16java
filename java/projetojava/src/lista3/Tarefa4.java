@@ -1,4 +1,4 @@
-package lista3;
+/*package lista3;
 
 import java.util.*;
 
@@ -50,4 +50,4 @@ public class Tarefa4 {
 		
 	}
 
-}
+}*/
