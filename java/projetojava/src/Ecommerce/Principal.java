@@ -5,6 +5,7 @@ import java.util.Date; // biblioteca Data
 import java.util.List;
 import java.util.Random; // biblioteca randomica
 import java.util.Scanner;
+
 public class Principal {
 	public static void main(String[] args) {
 		// Variáveis
