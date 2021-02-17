@@ -25,7 +25,7 @@ programa
 		}
 		senao
 		{
-			escreva ("O umero digitado é Positivo e Impar !!")
+			escreva ("O numero digitado é Positivo e Impar !!")
 		}
 	}
 }
@@ -35,7 +35,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 464; 
+ * @POSICAO-CURSOR = 419; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
